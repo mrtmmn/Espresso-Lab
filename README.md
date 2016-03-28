@@ -32,3 +32,8 @@ Bonus:
 #### Deliverable
 
 An app that meets the requirements above.
+
+#### Resources
+
+- [Android Developers - UI Testing - http://developer.android.com/training/testing/ui-testing/espresso-testing.html](http://developer.android.com/training/testing/ui-testing/espresso-testing.html)
+- [Intro to Espresso - https://androidresearch.wordpress.com/2015/04/04/an-introduction-to-espresso/](https://androidresearch.wordpress.com/2015/04/04/an-introduction-to-espresso/)
